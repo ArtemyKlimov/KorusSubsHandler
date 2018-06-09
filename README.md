@@ -1,15 +1,16 @@
 
-### Утилита для создания, получения и удаления подписок API Корус (https://courier-api.esphere.ru/)
+### Утилита для создания, получения и удаления подписок API Корус 
+####(https://courier-api.esphere.ru/)
 #### Help:
 
 ##### Создание подписки:
--add -u <user> -p <password>
+-add -u user -p password
 ##### получение списка подписок:
--get -u <user> -p <password>
+-get -u user -p password
 ##### удаление подписки:
--delete -u <user> -p <password>
+-delete -u user -p password
 ##### возможные аргументы:
-*-f*    				вывод результата работы в файл
-*-stacktrace*			вывод стектрейса ошибок
-*-demo*				использование демо версии API
+*-f*    				вывод результата работы в файл <br/>
+*-stacktrace*			вывод стектрейса ошибок <br/> 
+*-demo*				использование демо версии API <br/>
 *-h*					вывод справки
