@@ -1,0 +1,15 @@
+﻿**/.metadata/
+**/BARfiles/
+**/GeneratedBarFiles/
+BARfiles
+**/bin/
+*.class
+GeneratedBarFiles/
+.gradle/
+*.iml
+**/build/
+**/.settings
+.DS_Store
+TestClientBarFiles
+.idea/*
+target/*
